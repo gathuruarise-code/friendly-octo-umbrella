@@ -1,2 +1,2 @@
 # friendly-octo-umbrella
-A blog about Paul Ngei
+A simple blog about the life of a popular kenyan politician and leader Paul Ngei
